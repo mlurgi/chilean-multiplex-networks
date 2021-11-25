@@ -13,13 +13,15 @@ Start here!
 ##
 ## Date Created: 19-12-2019
 ##
-## Copyright (c) Miguel Lurgi, 2019
+## Copyright (c) Miguel Lurgi, 2019-2021
 ## Email: miguel.lurgi@swansea.ac.uk
 
-This archive (Data S1.zip) contains the data and source code used to produce the results
+This repository contains the data and source code used to produce the results
 presented in our paper entitled:
 
-'Geographical variation of multiplex ecological networks in marine intertidal communities'
+Lurgi, M., Galiana, N., Broitman, B. R., Kéfi, S., Wieters, E. A., and Navarrete, S. A. (2020)
+**Geographical variation of multiplex ecological networks in marine intertidal communities**. 
+***Ecology*** 101(11):e03165. https://doi.org/10.1002/ecy.3165
 
 In this file I describe the contents of the archive (i.e. files contained here) and provide
 a brief description of what each data file contains and what each source file does when executed.
